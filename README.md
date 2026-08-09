@@ -136,18 +136,6 @@ The interactive Power BI dashboard (`Indian_Airline_Ticket_Price_Analytics.pbix`
 
 ---
 
-## 💡 Conclusion & Recommendations
-
-This analysis shows that Indian domestic airfares are shaped by a combination of **class, booking lead time, airline, and route** — with class and lead time standing out as the strongest levers.
-
-**For travelers:** booking **[X] weeks in advance** and remaining flexible on airline and time band can meaningfully reduce fares.
-
-**For pricing/revenue teams:** the clearest opportunities for dynamic pricing refinement sit in **[routes/time bands identified above]**, where price variation doesn't appear fully explained by cost or demand alone.
-
-*(Update this section once findings above are finalized — recommendations should follow directly from the actual numbers.)*
-
----
-
 ## 🗂️ Project Structure
 
 ```text
